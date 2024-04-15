@@ -4,7 +4,8 @@ This is atm machine
 <h1 align="center">Hi 👋, I'm abdulhaseeb</h1>
 <h3 align="center">A passionate developer from pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-haseeb-dawood&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-haseeb-dawood" /> </p>
+<p align="left"> <img align="right"
+  alt="coding" width="300"  src="https://i.pinimg.com/originals/5b/ad/f7/5badf72a895a0a9d6ff371ef364d56af.gif" alt="soniyamuhammaddawood" /> </p>
 
 - 🔭 I’m currently working on **100 days of coding**
 
